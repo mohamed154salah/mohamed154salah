@@ -46,6 +46,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mohamed154salah&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed154salah)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **mohamed154salah/mohamed154salah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
